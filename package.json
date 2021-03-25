@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/feriel08/resto/issues"
   },
-  "homepage": "https://github.com/feriel08/resto#readme"
+  "homepage": "https://github.com/feriel08/resto#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
 }
